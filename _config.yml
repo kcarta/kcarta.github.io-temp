@@ -24,7 +24,7 @@ google_analytics: UA-45886163-5
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+remote_theme: kcarta/flexible-jekyll
 plugins:
   - jekyll-feed
 
