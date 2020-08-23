@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a software manager and engineer, passionate about delivering complex projects through skilled application of Agile methodologies and values. My technical experience is primarily in full-stack web development and web service architectures in .NET and Java, and following extreme programming (XP) ways of working.
+
+I love to talk about all these topics and more!
