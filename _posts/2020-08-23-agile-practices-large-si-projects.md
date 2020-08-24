@@ -2,7 +2,7 @@
 layout: post
 title:  "Agile Applicability in Enterprise Systems Integration Projects"
 date:   2020-08-23 22:00:00 +0200
-categories: [agile-pm, integrations, thoughts]
+tags: [agile-pm, integrations, thoughts]
 ---
 
 # Agile Applicability in Enterprise Systems Integrations Projects
