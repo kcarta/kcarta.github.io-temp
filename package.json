@@ -1,0 +1,11 @@
+{
+  "name": "gauge-kc-blog-test",
+  "version": "0.0.1",
+  "description": "Tests for personal blog",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "taiko": "latest"
+  }
+}
