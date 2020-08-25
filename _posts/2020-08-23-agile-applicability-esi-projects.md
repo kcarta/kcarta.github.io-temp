@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Agile Applicability in Enterprise Systems Integration Projects"
-date:   2020-08-23 22:00:00 +0200
+date:   2020-08-23 00:00:00 +0000
 tags: [agile-pm, integrations, thoughts]
 ---
-
-# Agile Applicability in Enterprise Systems Integrations Projects
 
 *What do we mean when we say a project is "Agile"? What are Agile values worth when they are applied in a type of software project where Agility isn't the point. Does Agile have a place in a project where the end result is largely "known" from the start, and so stakeholders expect rigidity in terms of cost, timeline, and scope?*
 
