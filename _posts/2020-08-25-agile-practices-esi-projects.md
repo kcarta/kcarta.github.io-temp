@@ -23,11 +23,11 @@ On the extent of Agile practice adoption in a large (i.e. enterprise) integratio
 
 > ...Most practitioners I know want flexibility to pick and choose which Agile practices to introduce to their organizations and when. We need to be able to selectively adopt, adapt, and apply whatever Agile practices that help us reach the finish line and deliver projects successfully. Insisting that an Agile method (or any method for that matter) must be implemented exactly as it was originally conceived for all projects becomes an obstacle to its adoption in many organizations and project"
 
-In 2020, partial application appears to be the name of the game, whether by choice or unwittingly. This usually occurs through attempting to put a known framework into practice, like Scrum. 
+In 2020, partial application appears to be the name of the game, albeit unwittingly. This usually occurs through attempting to put a known framework into practice, like Scrum. 
 
 As far as I've seen, enterprise integration projects attempt Scrum but usually fall short of the *Scrum Guide* standard. I've seen "Wild West with Sprints → *kinda Scrum*", "Waterfall delegating to pre-planned Sprints → *kinda Scrum*", "Baseline requirements, with backlog planning to feed Sprints → *kinda Scrum*", and "SAFe for coordination, breaking goals/features down to *kinda Scrum"*. 
 
-I imagine that in a project attempting to follow "proper Scrum", the PO would quickly bend themselves out of shape trying to link their sprint planning with the known integration points & integration flow.
+I imagine that in a project attempting to follow "proper Scrum", the PO would quickly bend themselves out of shape trying to link their sprint planning with the known integration points & integration flow [^1].
 
 The common framework approaches, from the "kinda Scrum" strategies all the way to scaled SAFe/Prince2/etc., look inspiring on paper, but run into the same central problem: the final state of the project is *known* from the start, so what is this "Agile" overhead for if change is not expected or desired?
 
@@ -50,3 +50,5 @@ Aidane ends by listing the following as some Agile practices that can be benefic
 What I'm led to understand, is that if an Agile framework - i.e. Scrum - is a poor natural fit for this type of project where the end goal is known and the scope is all but set, then it can only be valuable if *full application* results in more benefits than drawbacks. 
 
 In the next post I will examine in turn each of the Agile practices that Aidane mentions, in the context of a standard enterprise system integration project.
+
+[^1]: Also assuming that the PO is even able to parse and prioritize the extremely technical integration requirements
