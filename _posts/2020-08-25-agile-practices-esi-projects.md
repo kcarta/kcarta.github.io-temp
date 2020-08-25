@@ -23,7 +23,7 @@ On the extent of Agile practice adoption in a large (i.e. enterprise) integratio
 
 > ...Most practitioners I know want flexibility to pick and choose which Agile practices to introduce to their organizations and when. We need to be able to selectively adopt, adapt, and apply whatever Agile practices that help us reach the finish line and deliver projects successfully. Insisting that an Agile method (or any method for that matter) must be implemented exactly as it was originally conceived for all projects becomes an obstacle to its adoption in many organizations and project"
 
-In 2020, partial application appears to be the name of the game, albeit unwittingly. This usually occurs through attempting to put a known framework into practice, like Scrum. 
+In 2020, partial application appears to be the name of the game, albeit unwittingly. This usually occurs through attempting to put a known framework into practice, like Scrum. I want to eventually discuss purposeful partial application of Agile values/practices, but for now I want to focus on the consequences of attempting to apply Agile via a standard framework/methodology. I'll call this "full application" of Agile practices even if I pessimistically think the end result is some sort of partial applicaiton.
 
 As far as I've seen, enterprise integration projects attempt Scrum but usually fall short of the *Scrum Guide* standard. I've seen "Wild West with Sprints → *kinda Scrum*", "Waterfall delegating to pre-planned Sprints → *kinda Scrum*", "Baseline requirements, with backlog planning to feed Sprints → *kinda Scrum*", and "SAFe for coordination, breaking goals/features down to *kinda Scrum"*. 
 
