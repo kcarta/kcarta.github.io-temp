@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agile Practices in Large System Integration Projects"
+title:  "Partial Application of Agile Practices in Enterprise System Integration Projects"
 date:   2020-08-25 00:00:00 +0000
 tags: [agile-pm, integrations, reading]
 ---
@@ -29,7 +29,7 @@ As far as I've seen, enterprise integration projects attempt Scrum but usually f
 
 I imagine that in a project attempting to follow "proper Scrum", the PO would quickly bend themselves out of shape trying to link their sprint planning with the known integration points & integration flow [^1].
 
-The common framework approaches, from the "kinda Scrum" strategies all the way to scaled SAFe/Prince2/etc., look inspiring on paper, but run into the same central problem: the final state of the project is *known* from the start, so what is this "Agile" overhead for if change is not expected or desired?
+The common framework approaches, from the "kinda Scrum" strategies all the way to scaled SAFe/Prince2/etc., look inspiring on paper, but run into the same central problems: the final state of the project is *known* from the start, and value doesn't appear until the very end, so what is this "Agile" overhead for, when change is not expected or desired?
 
 One assumes that if the point of applying these frameworks isn't about business agility, there must be enough "other derived value" to warrant all the overhead. 
 
