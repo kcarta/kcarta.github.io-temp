@@ -8,11 +8,11 @@ tags: [agile-pm, integrations, reading]
 
 In the previous posts, I question the applicability of Agile methodology in the arguably non-Agile context of an enterprise systems integration project. 
 
-To recap, how do I consider this type of project to be non-Agile? I think these are so by design. To the project stakeholder(s), the advantage of a project like this is confidence in the "known" end result, and the expectation that they will not begin to see value on their investment until the project is delivered in full. They know what the finished product should be, and any project plan they sit with will be seen as the roadmap to reaching that finished product. Any deviation from this roadmap would have to be seen a failure. The project team is expected to meet that roadmap, simply laying the tracks between the start point and the end point. The only desirable deviation from the stakeholder's plan would be a decrease in effort/budget/timeline, which *never happens* [^1]*.*
+To recap, how do I consider this type of project to be non-Agile? I think these are so by design. To the project stakeholder(s), the advantage of a project like this is confidence in the "known" end result. This is counterbalanced by the expectation that they will not begin to see value on their investment until the project is delivered in full. They know what the finished product should be, and any project plan they sit with will be seen as the roadmap to reaching that finished product. Any deviation from this roadmap would have to be seen a failure. The project team is expected to meet that roadmap, simply laying the tracks between the start point and the end point. The only desirable deviation from the stakeholder's plan would be a decrease in effort/budget/timeline, which *never happens* [^1]*.*
 
 If the project is not Agile by nature, then what is the purpose of using an Agile framework for it, from Scrum to SAFe?
 
-In his ["Tailoring Agile Practices for Enterprise System Integration Projects"](http://www.guerrillaprojectmanagement.com/tailoring-agile-practices-for-enterprise-system-integration-projects-part-1) post series, Samad Aidane suggests that the key can be found in a set of practices:
+In his ["Tailoring Agile Practices for Enterprise System Integration Projects"](http://www.guerrillaprojectmanagement.com/tailoring-agile-practices-for-enterprise-system-integration-projects-part-1) post series, Samad Aidane suggests that the key can be found in partially application of Agile via a set of practices including:
 
 - Planning with time-boxing
 - Rolling Wave scheduling
