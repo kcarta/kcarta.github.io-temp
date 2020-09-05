@@ -2,7 +2,7 @@
 ---
 
 $text-primary-font: "Roboto Condensed", Arial, sans-serif;
-$text-post-font: Georgia, 'Times New Roman', Times, serif;
+$text-post-font: Georgia, "Times New Roman", Times, serif;
 $text-code-font: Menlo, Monaco, Consolas, "Courier New", monospace;
 
 $text-primary-size: 20px;
@@ -15,8 +15,8 @@ $icon-social-size: 28px;
 $text-primary-color: #000;
 $text-header-color: #555;
 $text-detail-color: #777;
-$link-color: #2997D8;
-$link-hover-color: #253B80;
+$link-color: #2997d8;
+$link-hover-color: #253b80;
 
 body {
   font-family: $text-primary-font;
@@ -75,6 +75,13 @@ h1 {
   }
 }
 
+.author-image {
+  max-width: 60%;
+  margin: 10px 0;
+  box-shadow: inset 1.5px 1.5px 3px 1.5px rgba(0, 0, 0, 0.15),
+    1px 1.5px 3px 1px rgba(0, 0, 0, 0.15);
+}
+
 /* Content */
 div.content pre {
   background: #333333;
@@ -111,11 +118,14 @@ footer {
   blockquote {
     font-style: italic;
   }
-  p, li {
+  p,
+  li {
     font-family: $text-post-font;
     font-size: $text-post-size;
   }
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     margin-bottom: 15px;
   }
 }
@@ -190,5 +200,11 @@ div.col-sm-3 {
 @media (max-width: 768px) {
   div.col-sm-3 {
     margin-top: 30px;
+  }
+
+  .author-image {
+    max-width: 30%;
+    margin: 0 auto;
+    display: block;
   }
 }
