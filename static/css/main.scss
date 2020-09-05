@@ -108,7 +108,10 @@ footer {
 }
 
 .post {
-  p {
+  blockquote {
+    font-style: italic;
+  }
+  p, li {
     font-family: $text-post-font;
     font-size: $text-post-size;
   }
