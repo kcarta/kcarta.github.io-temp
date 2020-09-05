@@ -25,7 +25,7 @@
 
         $(form)[0].reset();
         $(form).removeClass('disabled');
-/*         grecaptcha.reset(); */
+        grecaptcha.reset();
       },
       error: function (err) {
         console.log(err);
@@ -33,7 +33,7 @@
         showModal('Error', 'An error occured.<br>[' + ecode + ']');
         $("#comment-form-submit").html("Submit")
         $(form).removeClass('disabled');
-/*         grecaptcha.reset(); */
+        grecaptcha.reset();
       }
     });
     return false;
