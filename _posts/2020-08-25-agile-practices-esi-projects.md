@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Partial Application of Agile Practices in Enterprise System Integration Projects"
+title:  "Partial application of Agile practices in enterprise systems integration projects"
 date:   2020-08-25 00:00:00 +0000
 tags: [agile-pm, integrations, reading]
 ---
