@@ -5,7 +5,7 @@ date:   2020-09-05 00:00:00 +0000
 tags: [agile-pm, teams, thoughts]
 ---
 
-The effective Scrum teams I've worked with maintain a pair of documents called a **definition of ready** and a **definition of done**, which describe when an item is prepared adequately enough so that the team can commit to implementing it, and when an item is completed to the point that it can be released.
+The effective Scrum teams I've worked with maintain a pair of documents called a **definition of ready** and a **definition of done**, which describe when an item is prepared adequately enough so that the team can commit to implementing it, and when an item is completed to the point that the team can deliver it.
 
 I'm confident there are thousands of articles on what these documents are about, and how a team should go about writing and using them. I'm not concerned about any of that. I expect my teams to be able to understand the basic ins and outs of these contracts, and if they don't for some reason, then coaching becomes a whole other topic.
 
