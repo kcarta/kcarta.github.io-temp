@@ -62,5 +62,5 @@ A) Help the team get the space, stability, and awareness it needs to self-inspec
 
 B) Do nothing and hope the team/project makes it to the other end safely. I don't mean this to seem so glib - we've all been on projects with crippling problems that persist stubbornly, despite being known and acknowledged. For reasons ranging from technical to political, some problems remain simply intractable (or are *essential*), and as a manager might not be worth burning the necessary capital to try to resolve, or you might simply lack the necessary capital. The team still needs to be made aware that select problems will continue to nag it, and that other problems can still be resolved.  
 
-[^1]: I use the therm *manager* loosely here, to describe someone with responsibility for employing a team on a project and assessing the quality of the work the team delivers - servant-leader is another good industry term.
+[^1]: I use the term *manager* loosely here, to describe someone with responsibility for employing a team on a project and assessing the quality of the work the team delivers - servant-leader is another good industry term.
 [^2]: We all know how fragile developer ego can be (*see: impostor syndrome*)
