@@ -5,7 +5,6 @@ author-tagline: Hi, I'm Kris
 github: https://github.com/kcarta
 about: I'm a software manager and developer, and this is my space for exploring thoughts on *everything* to do with modern (agile) software delivery, from management to technology
 
-# disqus_shortname: xx
 google_analytics: UA-45886163-5
 
 enableTags: true
@@ -43,3 +42,19 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+#  ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+staticman_url: https://kcarta-github-pages-comments.herokuapp.com/v2/entry/kcarta/$kcarta.github.io/master/comments
+
+#reCaptcha:
+#  siteKey: 6LcsRsgZAAAAAGrkx0RrnolQOE76v8GHzqJ97Y2g
+#  secret: akBPU5lSFOOC94BNgrCkH9BO94jvFJ7480PN6rC8y4Ot+c842BTGJeFox0RZE2NLjdzzhKD3FNr8BDOWJnwzicyY9wqDuW3KwWtFyvc+dikophKXSnrt+rai7AGq4FGYt6pQJM1Tn9mRoE5c3jb9GeB0Zh1hq+P/5bHi4SFbpwMv0oj6yypvBdU1gkc/Br6zIgw65Cv+yxQGtbRFQuroa8lW/ZeOhTNIVDgOROIXWQObyVCoAk6uZbZOAzuRyuPnTB/gHIHILMC1FL3R4BqqmkJe53OjbsSWt7zcoGsElYrB5nao0jLNzn8mVHwb1nOE/xXYtT9H/ZdnlF6dhvZiEME9XPIG36HxkKYoaSz3JLiyNiRwLetX+37FucmuCYMDSkXTOq+83XW3EHXbgXlRs8rGPl25qW4ilJgTw41xX+tMR1vNn7rFZfUDSuvyrFbeT1UFBCQlkv3PjCZVW4u53KypCCNO8oRuT5WKDtcc5vQkEcaMdkxtrmcxTpYtVY+zvFetIABRimwxAYh0kxd9N3ooH8ZBqES/6W0w177nQiWbAtEnGc1wVz1dDdZonYzJoslW7koNQt3mZgWatbxczD+gqXEqcXTjrQURN5NlGlE8z/Aevxvk5Srpej8XQIDT6m/GauLJMYRHrVueQWX4TfJVYJDi9ZuUHFiUN/4rLXA=
