@@ -53,7 +53,7 @@ compress_html:
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://kcarta-github-pages-comments.herokuapp.com/v2/entry/kcarta/$kcarta.github.io/master/comments
+staticman_url: https://kcarta-github-pages-comments.herokuapp.com/v2/entry/kcarta/kcarta.github.io/master/comments
 
 #reCaptcha:
 #  siteKey: 6LcsRsgZAAAAAGrkx0RrnolQOE76v8GHzqJ97Y2g
