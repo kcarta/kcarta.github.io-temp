@@ -2,26 +2,33 @@
 ---
 
 $text-primary-font: "Roboto Condensed", Arial, sans-serif;
+$text-post-font: Georgia, 'Times New Roman', Times, serif;
 $text-code-font: Menlo, Monaco, Consolas, "Courier New", monospace;
-
-$text-primary-weight: 300;
 
 $text-primary-size: 20px;
 $text-secondary-size: 16px;
 $text-navigation-size: 18px;
+$text-post-size: 18px;
 $text-top-header-size: 32px;
 $icon-social-size: 28px;
 
 $text-primary-color: #000;
 $text-header-color: #696969;
-
 $text-detail-color: #777;
+$link-color: #2997D8;
+$link-hover-color: #253B80;
 
 body {
   font-family: $text-primary-font;
-  line-height: 1.5em;
-  font-weight: $text-primary-weight;
   font-size: $text-primary-size;
+  line-height: 1.5em;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover-color;
+  }
 }
 
 hr {
@@ -44,19 +51,11 @@ h1,
 h2,
 h3 {
   color: $text-header-color;
-  font-weight: normal;
 }
 
 h1 {
-  margin-bottom: 10px;
   font-size: $text-top-header-size;
 }
-
-h2,
-h3 {
-  margin-bottom: 5px;
-}
-
 
 /* Layout */
 .main-layout {
@@ -102,6 +101,11 @@ footer {
 .posts {
   list-style-type: none;
   padding: 0;
+}
+
+.post p {
+  font-family: $text-post-font;
+  font-size: $text-post-size;
 }
 
 div.post-content .btn-tags {
