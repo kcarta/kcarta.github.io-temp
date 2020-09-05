@@ -103,9 +103,18 @@ footer {
   padding: 0;
 }
 
-.post p {
-  font-family: $text-post-font;
-  font-size: $text-post-size;
+.post-meta {
+  margin-bottom: 10px;
+}
+
+.post {
+  p {
+    font-family: $text-post-font;
+    font-size: $text-post-size;
+  }
+  h1, h2, h3 {
+    margin-bottom: 15px;
+  }
 }
 
 div.post-content .btn-tags {
