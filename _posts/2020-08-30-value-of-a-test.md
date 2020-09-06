@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are automated tests worth writing?"
+title:  "The value of writing tests"
 date:   2020-08-30 00:00:00 +0000
 tags: [testing, thoughts]
 comments: true
