@@ -3,6 +3,7 @@ layout: post
 title:  "Definitions of Done and Ready - A manager's perspective"
 date:   2020-09-05 00:00:00 +0000
 tags: [agile-pm, teams, thoughts]
+comments: true
 ---
 
 The effective Scrum teams I've worked with maintain a pair of documents called a **definition of ready** and a **definition of done**, which describe when an item is prepared adequately enough so that the team can commit to implementing it, and when an item is completed to the point that the team can deliver it.

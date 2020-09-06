@@ -3,6 +3,7 @@ layout: post
 title:  "Partial application of Agile practices in enterprise systems integration projects"
 date:   2020-08-25 00:00:00 +0000
 tags: [agile-pm, integrations, reading]
+comments: true
 ---
 
 In the previous post, I raised the question of how Agile practice fits into the context of enterprise systems integrations projects, which I assert are non-Agile by design.

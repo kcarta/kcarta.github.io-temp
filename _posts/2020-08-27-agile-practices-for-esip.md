@@ -3,6 +3,7 @@ layout: post
 title:  "Thoughts on 'Tailoring Agile Practices for Enterprise System Integration Projects'"
 date:   2020-08-27 00:00:00 +0000
 tags: [agile-pm, integrations, reading]
+comments: true
 ---
 
 
