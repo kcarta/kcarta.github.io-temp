@@ -14,6 +14,6 @@ There is some risk to airing my thoughts openly online, which I hope readers can
 
 I'm still keeping my software developer spirit close, so expect a few stray technical posts as well.
 
-I always love having discussions, so please feel free to hit me up on LinkedIn or via a comment here (I'll have Disqus or similar up "soon")
+I always love having discussions, so please feel free to hit me up on LinkedIn or via a comment here!
 
 [^1]: A contentious term, I know! One topic for the backlog :)
