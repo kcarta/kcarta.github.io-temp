@@ -10,8 +10,6 @@ If you've had the pleasure of working in stressful projects (and who hasn't!?), 
 
 With the primary goal of protecting my team members from their own good intentions, I recently thought up a set of **commandments** to dictate behavior on a project, especially in the presence of a customer[^1]. At first I thought these would be fun joke material, but after having drafted the list, I started to admire how, as **commandments**, they speak as if coming from a far-away voice of authority, against seemingly mundane transgressions whose consequences could nonetheless be severe and eternal. Like the *original* commandments, these are meant to protect team members against their own natural tendencies (*a reasonable person acting in good faith*...).
 
-*Do you have comments or proposals for amendments to this list? I'd love to hear them!*
-
 # 10 Commandments in the Presence of a Customer[^1]
 
 > To protect yourself, your team, your project, and your company
@@ -26,6 +24,8 @@ With the primary goal of protecting my team members from their own good intentio
 8. Thou shalt not speak poorly of the code or the system
 9. Thou shalt be transparent about your responsibilities, and defer to others about their responsibilities
 10. Thou shalt respect and work within agreed practices and not create loopholes, even if asked by the customer[^1]
+
+*Do you have comments or proposals for amendments to this list? I'd love to hear them!*
 
 [^1]: Or stakeholder, sponsor, user, ... 
 [^2]: This isn't to be slippery or evasive, but to avoid misleading people, and the eventual finger-pointing and he-said-she-said conflicts that arise when responsibility is taken but can't be tracked. Formal channels should exist for sharing and tracking information and decisions.
