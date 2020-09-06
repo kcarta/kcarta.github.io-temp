@@ -135,6 +135,10 @@ footer {
   }
 
   .footnotes {
+    &:before {
+      content: "Footnotes";
+      font-family: $text-primary-font;
+    } 
     margin-top: 40px;
     padding-top: 10px;
     border-top: 1px solid $line-color;
