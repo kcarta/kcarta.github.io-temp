@@ -3,6 +3,7 @@ layout: post
 title: "Ten Commandments in the Presence of a Customer"
 date: 2020-09-06 00:00:00 +0000
 tags: [teams]
+comments: true
 ---
 
 If you've had the pleasure of working in stressful projects (and who hasn't!?), you're likely to have witnessed some shockingly self-destructive behaviors. You have probably seen the extensive damage these behaviors can cause. Even more disturbing, you've probably observed moments where a *reasonable person acting in good faith*, has said something completely *normal*, but in a specific context or with certain people, resulting in that *reasonable* comment growing out of proportion and triggering astoundingly severe consequences. This is unfair, yes, but it happens, because projects are human and humans are social creatures who often have opaquely conflicting pressures and goals. This goes doubly for customers[^1], whose anxieties regarding a project often differ radically from the project team's. I reckon that if you're looking out for this process, or in a role that forces you to be politically attuned, you can spot it as it happens on most any project. 
