@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ten Commandments in the Presence of a Customer"
+title: "Ten Commandments (in the Presence of a Customer)"
 date: 2020-09-06 00:00:00 +0000
 tags: [teams]
 comments: true
@@ -10,7 +10,7 @@ If you've had the pleasure of working in stressful projects (and who hasn't!?), 
 
 With the primary goal of protecting my team members from their own good intentions, I recently thought up a set of **commandments** to dictate behavior on a project, especially in the presence of a customer[^1]. At first I thought these would be fun joke material, but after having drafted the list, I started to admire how, as **commandments**, they speak as if coming from a far-away voice of authority, against seemingly mundane transgressions whose consequences could nonetheless be severe and eternal. Like the *original* commandments, these are meant to protect team members against their own natural tendencies (*a reasonable person acting in good faith*...).
 
-# 10 Commandments in the Presence of a Customer[^1]
+# 10 Commandments (in the Presence of a Customer[^1])j
 
 > To protect yourself, your team, your project, and your company
 
