@@ -16,9 +16,15 @@ This isn't my first time working under pressure. I've even failed here before, h
 
 Through years of failure, I have learned an important lesson: *when under pressure, focus on the essentials*.
 
-# Priorities
+To do this, I practice three steps:
 
-I have a very clear mental image of my priorities for when the going gets rough. When I find myself under a wave of pressure, I focus on these and clear out everything else.
+1. Make an ordered list of priorities
+2. Set a line somewhere on that list
+3. Cut out everything underneath that line
+
+# Priorities, ordered
+
+For a long time, I set and ordered my priorities physically, on paper. Nowadays, I have a very clear mental image of my priorities, that I can recall when the going gets rough. When I find myself under a wave of pressure, I focus on these and clear out everything else.
 
 My priorities are:
 
@@ -37,11 +43,11 @@ My priorities are:
 
 5 and 6 are non-essentials.
 
-During a big stress spike, like the one I've been under for the past couple months, I try to set the line somewhere around 3/4, and I'll then drop anything below without a second thought. *Note that I haven't posted on this blog for ca. 6 weeks - this is the reason for that!* Furthermore, I've noticed that among the things I toss out, if there were any truly important items, they have a way of resurfacing later anyways. 
+During a big stress spike, like the one I've been under for the past few weeks, I try to set the line somewhere around 3/4, and I'll then drop anything below without a second thought. *Note that I haven't posted on this blog for ca. 6 weeks - this is the reason for that!* Furthermore, I've noticed that among the things I toss out, if there were any truly important items, they have a way of resurfacing later anyways. 
 
 ## Work Priorities
 
-In my current job as a delivery manager, I have a lot of responsibilities - off the top of my head:
+In my current role as a delivery manager, I have a lot of responsibilities - off the top of my head:
 
 - To my team members
     - e.g shielding, nurturing, prioritizing, unblocking
@@ -66,6 +72,7 @@ The hardest, but also most important, thing for me to do when under pressure is 
 
 My internal negotiations for setting these activities aside are always driven by the realization that:  
 
-> I cannot focus on improvement at the cost of the essentials 
+> I cannot focus on improvement if that causes me to neglect the essentials[^2]
 
 [^1]: This is also why numbing is my go-to self-destructive behavior - defined by Brene Brown as "Taking the edge off emotional pain with [food | video games | Netflix | YouTube | ...]"
+[^2]: Getting this equation backwards is what caused my last burnout!
