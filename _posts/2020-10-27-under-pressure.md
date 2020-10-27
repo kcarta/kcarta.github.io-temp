@@ -74,5 +74,5 @@ My internal negotiations for setting these activities aside are always driven by
 
 > I cannot focus on improvement if that causes me to neglect the essentials[^2]
 
-[^1]: This is also why numbing is my go-to self-destructive behavior - defined by Brene Brown as "Taking the edge off emotional pain with [food | video games | Netflix | YouTube | ...]"
+[^1]: This is also why numbing is my go-to self-destructive behavior - defined by Brene Brown as "Taking the edge off emotional pain with [food, video games, Netflix/YouTube, ...]"
 [^2]: Getting this equation backwards is what caused my last burnout!
