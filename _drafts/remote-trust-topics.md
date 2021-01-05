@@ -6,18 +6,9 @@ tags: []
 comments: true
 ---
 
-> Digital communication is like eating Pringles
+This personal revelation has had me wondering lately about the importance of personal connection, especially with my team members and my customers, and what this means in 2020 when our only communication medium is digital. Most people crave social connection, myself included, and we suffer when that need isn't met. 
 
-> You start eating, don't get satisfied, then you binge eat and are left **even more unsatisfied**
-
-As a (remote) software project manager, and, thanks to COVID-19 blocking all travel for the foreseeable future, all of my workdays now revolve around digital communication. On any given day I spend somewhere between 6 to 10 hours communicating with my teams, colleagues, and customers, via any number of chat apps, emails, and virtual meeting apps[^1]. Without travel or a shared office[^2], I spent most of 2020 in a bizarre electronic cocoon, interacting with many dozens of people around the world while at the same time never leaving my home "office".
-
-Like most people, I crave social connection, and I suffer in uncomfortable ways when that need isn't met. After a typical workday filled with constantly-updating online chat threads and virtual meetings, I often find myself numbed and drained, similar to the physical feeling of having downed a can of Pringles in one sitting (one I also know all-too-embarrassingly well!). Digital communication not only fails to meet my needs, it depletes the energy I need to live my personal life and navigate this insane and pressure-heavy period. 
-
-I know I'm not alone here. I don't have to sit physically with my teams and customers to know that they long for the same human-human connection that I do, and I know that communication on software projects can be challenging and stressful even in the best of circumstances (I recall a workshop with agilist Alistair Cockburn where his advice on running effective remote teams boiled down to *don't*). With this the case, I've been wondering for a long time - given that we all have similar social needs and yet must rely on draining digital interactions to get our work done, what more could I be doing to support myself and those I work with?
-
-All of this is why I listened with such interest to a recent podcast episode titled ["'Can You Hear Me?' How to Connect with People in a Virtual World", with Nick Morgan on the New Books in Sociology podcast network](https://open.spotify.com/episode/51wlk6LF7vYeIaXVqNYtcr?si=mDlxUxCeTK-7hkV2GuUIgQ).
-
+My overriding functions as a project manager are to protect and nurture my team members, and to stay attentive to my customer's needs. Doing so requires emotional clarity and attentiveness. This leaves us in a bind - is it possible to succeed in a jobwhich hinges so heavily on emotional connection, when the only communication methods available are emotionally distant and, at worst, numbing and alienating?
 
 ## Trust, intimacy, and (Human) signal loss over digital media
 
@@ -70,6 +61,3 @@ Remember that you set an example by your behavior. I always try to keep my camer
 
 When intent isn't clear, how do we keep confident, and how can we provide others with confidence as they speak?
 
-
-[^1]: Slack, Skype, Teams, Meet, Webex, Zoom... 😵
-[^2]: I recently opened an office, and being able to interact physically with others - though in a highly-controlled and distanced setting - feels simply amazing
